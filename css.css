@@ -17,3 +17,37 @@
   background-color: #EDEDED;
   border-radius: 2px;
 }
+
+.more-wrapper {
+  display: flex;
+  margin-left: 20%;
+  align-items: center;
+  gap: 2px;
+}
+
+.more1 {
+  background-color: #EDEDED;
+  width: 15px;
+  height: 15px;
+}
+
+.more2 {
+  background-color: #ACD5F2;
+  width: 15px;
+  height: 15px;
+}
+.more3 {
+  background-color: #7FA8C9;
+  width: 15px;
+  height: 15px;
+}
+.more4 {
+  background-color: #527BA0;
+  width: 15px;
+  height: 15px;
+}
+.more5 {
+  background-color: #254E77;
+  width: 15px;
+  height: 15px;
+}

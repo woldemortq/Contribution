@@ -1,5 +1,6 @@
 const container = document.querySelector('.container')
 
+
 for (let column = 0; column < 51; column++) {
     const col = document.createElement('div')
     col.classList.add('week')
